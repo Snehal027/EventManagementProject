@@ -45,53 +45,70 @@ Event/
 
 Home Page
 
-![image](https://github.com/user-attachments/assets/6b3d9415-f117-4a6a-811b-80aea17b822a)
+![image](https://github.com/user-attachments/assets/7670c194-3cda-4c37-b332-97a2795166a8)![image](https://github.com/user-attachments/assets/11675cb9-c981-4a68-83c3-9057d9ca17a3)
+
+
 
 About Us
 
-![image](https://github.com/user-attachments/assets/c1e0faac-62f6-403a-b2fe-a4e3b0b305be)![image](https://github.com/user-attachments/assets/28f42d3f-82c5-4029-b9a8-14aa413808e3)
+![image](https://github.com/user-attachments/assets/58e53f66-3ae3-4413-a130-94794b9445cc)![image](https://github.com/user-attachments/assets/027ae4fd-83fe-47aa-8cb1-e8a42837d81d)
+
 
 Gallary
 
-![image](https://github.com/user-attachments/assets/6b43a758-a0e8-462f-bc7d-4272fb0f75fe)![image](https://github.com/user-attachments/assets/6b480c78-e475-44d2-8103-19445a1231b6)![image](https://github.com/user-attachments/assets/a70e1997-c428-44d2-ab1d-d56bdf8b3e77)
+![image](https://github.com/user-attachments/assets/4584a531-d1d0-4db2-99ef-b593490965c8)![image](https://github.com/user-attachments/assets/326bef67-10d9-4462-83e8-7b16cd8664b6)![image](https://github.com/user-attachments/assets/4e236a06-bcbf-419c-b20f-895da94cc951)
+
 
 Service Page
 
-![image](https://github.com/user-attachments/assets/c29dfd58-ad6e-482c-926a-a09acb070b18)![image](https://github.com/user-attachments/assets/f45bfed3-00f1-4c31-a206-80fc7c5be701)![image](https://github.com/user-attachments/assets/666354b4-f9c5-4d4a-9c74-5e5d580cc0a9)
+![image](https://github.com/user-attachments/assets/021ebd66-bbb9-4072-8d84-ac5184182dcf)![image](https://github.com/user-attachments/assets/3923e787-63d6-4fb6-93d0-156342c3c646)![image](https://github.com/user-attachments/assets/350fdbaa-7c39-4fb6-8892-242156e34730)
+
+
 
 Booking
 
-![image](https://github.com/user-attachments/assets/b57a46c4-2921-45fd-8f3f-400ff3430d03)![image](https://github.com/user-attachments/assets/53c7b7cc-c514-45a4-aa14-d05531da2f30)
+![image](https://github.com/user-attachments/assets/230b498f-b94a-49f7-be99-8f223a9abadb)![image](https://github.com/user-attachments/assets/8e1ac054-0774-4d96-baa2-adc2aef21231)
+
+
 
 Dislpay
-![image](https://github.com/user-attachments/assets/8941171b-5c42-40d2-adce-900ad4ab018f)![image](https://github.com/user-attachments/assets/861af6da-e9ff-4c63-9047-5cd1debcddfb)
+![image](https://github.com/user-attachments/assets/e33abbbe-248a-42d7-8c81-318a23fd9426)![image](https://github.com/user-attachments/assets/54bd1932-1e28-4d7d-b0c0-d688dfb86a65)
+
+
 
 Book Now Page
 
-![image](https://github.com/user-attachments/assets/a857c1c7-2d58-4be6-97b0-e90f12b184c6)![image](https://github.com/user-attachments/assets/781cb0be-5aad-47af-a780-a6baf45445d2)
+![image](https://github.com/user-attachments/assets/ee75ddda-8112-4d65-8cdb-dae3d769abf0)![image](https://github.com/user-attachments/assets/a0e436d1-5442-419e-8883-e19db60f0375)
+
+
 
 
 Billing Page
 
-![image](https://github.com/user-attachments/assets/c76f1fef-95f8-4de1-a424-38f112b9cf5f)[image](https://github.com/user-attachments/assets/91d5696c-b4ae-4a73-91a7-fc288220708b)
+![image](https://github.com/user-attachments/assets/0fba2350-bfc5-4fb7-8381-41a5dfbd259c)![image](https://github.com/user-attachments/assets/79794e9d-506c-48d8-b8b1-dd95b4869095)
 
 
 Payment Page
 
-![image](https://github.com/user-attachments/assets/1e6cefab-f10a-4b4a-a787-fbb975545999)![image](https://github.com/user-attachments/assets/7577815f-03f4-47d0-90c1-4b2bb9390d89)
+![image](https://github.com/user-attachments/assets/d60b6b24-f24b-44a3-bc6e-87bbf4b35931)![image](https://github.com/user-attachments/assets/218f4381-10eb-437b-a8f2-473d51f29dda)
+
+
 
 Thank You Page
 
-![image](https://github.com/user-attachments/assets/7bd0f589-b50d-4c6d-81ea-a0f0dd2c2f14)![image](https://github.com/user-attachments/assets/c5dc4f26-a75c-49ec-887a-d311b84f5dd7)
+![image](https://github.com/user-attachments/assets/73260fb2-8355-4f6a-ae44-ee07ec70825d)![image](https://github.com/user-attachments/assets/a2f75389-1684-4af5-a61e-92eee1631a30)
+
 
 Admin Home
 
-![image](https://github.com/user-attachments/assets/698ac456-2b54-4ec1-912a-c725cb1e7774)![image](https://github.com/user-attachments/assets/27ecbb3a-284d-4d53-9494-d3bea349294e)
+![image](https://github.com/user-attachments/assets/d38a4af2-5fbe-40a5-af67-43923960ef8e)![image](https://github.com/user-attachments/assets/67585251-f125-427c-8f3d-62222f725eb7)
+
 
 
 Service Information
 
-[image](https://github.com/user-attachments/assets/a865915f-76da-4984-8116-14caec5b977a)![image](https://github.com/user-attachments/assets/2ffc4306-e68b-4211-b614-90aa52af55ea)!
+![image](https://github.com/user-attachments/assets/53c80751-1481-4717-9a84-feb7704d0437)![image](https://github.com/user-attachments/assets/7714a03d-8956-43c5-82a0-a32078f8c570)
+
 
 
 ### How to Run
