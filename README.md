@@ -85,14 +85,7 @@ Book Now Page
 
 Billing Page
 
-![image](https://github.com/user-attachments/assets/0fba2350-bfc5-4fb7-8381-41a5dfbd259c)![image](https://github.com/user-attachments/assets/79794e9d-506c-48d8-b8b1-dd95b4869095)
-
-
 Payment Page
-
-![image](https://github.com/user-attachments/assets/d60b6b24-f24b-44a3-bc6e-87bbf4b35931)![image](https://github.com/user-attachments/assets/218f4381-10eb-437b-a8f2-473d51f29dda)
-
-
 
 Thank You Page
 
